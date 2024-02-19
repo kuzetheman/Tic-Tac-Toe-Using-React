@@ -14,7 +14,7 @@ const WinnerModal = ({winner,resetgame})=>{
           </header>
   
           <footer>
-            <button onClick={resetgame}>Empezar de nuevo</button>
+            <button onClick={resetgame}>Start Again</button>
           </footer>
         </div>
       </section>
